@@ -1,0 +1,4 @@
+asyncio
+pyautogui
+numpy
+playwright==1.18.0
