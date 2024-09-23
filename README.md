@@ -32,7 +32,7 @@ This Python script automates the process of scraping follower details (username,
     Clone the repository or download the Python script to your local environment.
 
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/xaviermorgan9/shitty-twitter-list-scraper-using-pyautogui
     ```
 
 2. **Install dependencies:**
@@ -58,7 +58,7 @@ This Python script automates the process of scraping follower details (username,
     Execute the main script using Python:
 
     ```bash
-    python main.py
+    python twitter-list-scraper.py
     ```
 
 2. **Log in to Twitter:**
@@ -76,7 +76,7 @@ This Python script automates the process of scraping follower details (username,
     - `Username`
     - `Nickname`
     - `Bio`
-    - `Emails`
+    - `Emails` (1/100 attempts will get email)
     - `Join Date`
 
 5. **Stop the script:**
